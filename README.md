@@ -3,8 +3,9 @@
 ### "Alternative skill metric for CryoSat-2 suggests incomplete radar penetration over winter sea ice" - Nab et al. (2024)
 
 ## Data
+The data used in this publication can be found at:
 
-The daily-resolution interpolated freeboard data can be found at: https://doi.org/10.5281/zenodo.6401726
+Daily-resolution interpolated freeboard: https://doi.org/10.5281/zenodo.6401726
 
 BGEP mooring data: https://www2.whoi.edu/site/beaufortgyre/data/mooring-data/
 
