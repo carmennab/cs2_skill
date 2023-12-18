@@ -9,7 +9,7 @@ Daily-resolution interpolated freeboard: https://doi.org/10.5281/zenodo.6401726
 
 BGEP mooring data: https://www2.whoi.edu/site/beaufortgyre/data/mooring-data/
 
-ERA5 air temperature and wind speed: https://doi.org/10.24381/cds.adbb2d47
+ERA5 air temperature: https://doi.org/10.24381/cds.adbb2d47
 
 SM-LG snow depth and density: https://doi.org/10.5067/27A0P5M6LZBI
 
