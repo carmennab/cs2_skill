@@ -1,6 +1,6 @@
 ### Code and data repository for:
 
-### "Optimising interannual sea ice thickness variability retrieved from CryoSat-2" - Nab et al. (2024)
+### "Optimising interannual sea ice thickness variability retrieved from CryoSat-2" - Nab et al. (2024), Geophysical Research Letters
 
 ## Data
 The data used in this publication can be found at:
