@@ -36,3 +36,5 @@ pySnowRadar: https://doi.org/10.5281/ZENODO.4071947
 ## Notebooks
 
 The notebooks used to produce the paper's main and supplementary figures can be found in /main_figs and /supp_figs respectively, and are named according to figure number.
+
+[![DOI](https://zenodo.org/badge/719478112.svg)](https://zenodo.org/doi/10.5281/zenodo.13762641)
